@@ -2,3 +2,4 @@
 export const RUN_SEED = "44e468b5";
 export const SAMPLE_1 = { date: "2026-11-09", hash: "44e468b5" };
 export const SAMPLE_2 = { date: "2026-11-11", hash: "2b03d752" };
+export const SAMPLE_3 = { date: "2026-11-13", hash: "ca78f4db" };
